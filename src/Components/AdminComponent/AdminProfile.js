@@ -4,7 +4,7 @@ class AdminProfile extends Component{
     render(){
         return(
             <div className='card mx-auto mt-5' style={{width: '75%'}}>
-                <h2> Admin Profile</h2>
+                <h2 className='p-5'> Admin Profile</h2>
                 <table className='table-responsive{-sm|-md|-lg|-xl} '>
                     <thead>
                         <tr>

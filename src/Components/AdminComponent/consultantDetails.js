@@ -35,7 +35,7 @@ class consultantDetails extends Component{
             <table className ='table-responsive{-sm|-md|-lg|-xl text uppercase'>
                 <thead>
                     <tr>
-                        <th>Sr.No</th>
+                        <th>Sl.No</th>
                         <th>Date</th>
                         <th>PatientId</th>
                         <th>DoctorId</th>

@@ -28,7 +28,7 @@ const DepartmentList = props => {
 
     return <div className="row">
         <div className='card mx-auto mt-5 text-uppercase' style={{width: "50%"}}>
-            <h3 className='p-3'> Department List</h3>
+            <h3 className='p-5'> Department List</h3>
             <table className='table-responsive{-sm|-md|-lg|-xl} '>
                 <thead>
                     <th>Id</th>

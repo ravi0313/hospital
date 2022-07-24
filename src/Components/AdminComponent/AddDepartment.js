@@ -34,7 +34,7 @@ const CreateDepartment =props =>{
                     <div className="row">
                         <div className="col-12">
                             <h4 className="p-5">
-                                Create a new Department
+                                Create new Department
                             </h4>
                             <form method="post" onSubmit={submitHandler} className="form-group row m-3">
                             <div className='form-group row m-3'>
@@ -74,7 +74,7 @@ const CreateDepartment =props =>{
                              </div>
                       </div>
 
-                      <button class="btn btn-primary " type="submit">Create Now</button>
+                      <button className="btn btn-primary" type="submit" style={{backgroundColor:'#70718D'}}>Create Now</button>
                         </form>
                         </div>
                     </div>

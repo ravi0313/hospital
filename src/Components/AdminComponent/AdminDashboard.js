@@ -19,7 +19,7 @@ const AdminDashboard = props =>{
     
         return <div className="row">
             <div  className='card mx-auto mt-5' style={{width: "75%"}}>
-                <h2>consultants Records</h2>
+                <h2 className="p-5">Consultants Records</h2>
             <table className ='table-responsive{-sm|-md|-lg|-xl '>
                 <thead>
                     <tr>

@@ -9,16 +9,6 @@ class ProfilePatient extends Component {
     };
   }
 
-  render() {
-    console.log(this.state.user);
-  constructor(){
-    super();
-    this.state = {
-      user : appUser
-    };
-  }
-}
-
 
   render() {
     return(
